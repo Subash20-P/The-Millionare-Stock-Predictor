@@ -1,0 +1,97 @@
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/00h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/01h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/02h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/03h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/04h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/05h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/06h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/07h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/08h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/09h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/10h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/11h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/12h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/13h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/14h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/15h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/16h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/17h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/18h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/19h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/20h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/21h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/22h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/01/23h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/00h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/01h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/02h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/03h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/04h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/05h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/06h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/07h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/08h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/09h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/10h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/11h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/12h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/13h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/14h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/15h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/16h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/17h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/18h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/19h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/20h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/21h_ticks.bi5 -> Error -5 while decompressing data: incomplete or truncated stream
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/22h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/02/23h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/00h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/01h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/02h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/03h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/04h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/05h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/06h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/07h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/08h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/09h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/10h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/11h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/12h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/13h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/14h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/15h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/16h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/17h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/18h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/19h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/20h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/21h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/22h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/03/23h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/00h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/01h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/02h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/03h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/04h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/05h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/06h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/07h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/08h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/09h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/10h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/11h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/12h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/13h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/14h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/15h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/16h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/17h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/18h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/19h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/20h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/21h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/22h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/04/23h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method
+https://datafeed.dukascopy.com/datafeed/EURUSD/2014/01/05/00h_ticks.bi5 -> Error -3 while decompressing data: unknown compression method

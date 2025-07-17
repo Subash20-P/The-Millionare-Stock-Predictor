@@ -1,0 +1,88 @@
+import MetaTrader5 as mt5
+import pandas as pd
+from datetime import datetime
+import os
+import time
+
+# === CONFIG ===
+symbol = "EURUSDm"
+log_path = "D:/DIVINE_GENERAL/trade_log.csv"
+delay_seconds = 60  # Wait before checking exit price (simulate real trade duration)
+
+# === DYNAMIC TRADE DIRECTION (Example) ===
+# Replace this with your actual LSTM signal logic
+def predict_trade_direction():
+    # Example: randomly choose for demo — replace with your LSTM model
+    import random
+    return random.choice(["buy", "sell"])
+
+trade_type = predict_trade_direction()
+
+# === INIT MT5 ===
+if not mt5.initialize():
+    print("❌ MT5 Initialization failed")
+    quit()
+
+# === GET ENTRY PRICE ===
+price = mt5.symbol_info_tick(symbol)
+if price is None:
+    print("❌ Failed to fetch price")
+    mt5.shutdown()
+    quit()
+
+entry_price = price.ask if trade_type == "buy" else price.bid
+print(f"🚀 Trade started — {trade_type.upper()} at {entry_price:.5f}")
+
+# === WAIT for Market Movement ===
+time.sleep(delay_seconds)
+
+# === GET EXIT PRICE ===
+price = mt5.symbol_info_tick(symbol)
+if price is None:
+    print("❌ Failed to fetch exit price")
+    mt5.shutdown()
+    quit()
+
+exit_price = price.bid if trade_type == "buy" else price.ask
+
+# === PnL LOGIC ===
+result = "profit" if (trade_type == "buy" and exit_price > entry_price) or \
+                      (trade_type == "sell" and exit_price < entry_price) else "loss"
+
+# === LOG TRADE ===
+trade_data = {
+    "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    "entry_price": round(entry_price, 5),
+    "exit_price": round(exit_price, 5),
+    "type": trade_type,
+    "result": result
+}
+
+# Load or create CSV
+if os.path.exists(log_path):
+    df = pd.read_csv(log_path)
+else:
+    df = pd.DataFrame(columns=["time", "entry_price", "exit_price", "type", "result"])
+
+df = pd.concat([df, pd.DataFrame([trade_data])], ignore_index=True)
+df.to_csv(log_path, index=False)
+
+# === Success Rate Summary ===
+total_trades = len(df)
+profitable_trades = len(df[df["result"] == "profit"])
+loss_trades = total_trades - profitable_trades
+success_rate = (profitable_trades / total_trades) * 100 if total_trades > 0 else 0
+
+# === OUTPUT ===
+print("\n📊 Trade Summary")
+print(f"🕒 Time: {trade_data['time']}")
+print(f"📈 Entry Price: {entry_price}")
+print(f"📉 Exit Price: {exit_price}")
+print(f"🟢 Trade Type: {trade_type}")
+print(f"🎯 Result: {result}")
+print(f"\n✅ Profitable Trades: {profitable_trades}")
+print(f"❌ Loss Trades: {loss_trades}")
+print(f"🔁 Total Trades: {total_trades}")
+print(f"💯 Success Rate: {success_rate:.2f}%")
+
+mt5.shutdown()
