@@ -1,14 +1,1 @@
-conda activate forex_env
-cd /d D:/DIVINE_GENERAL
-python bot.py
-
-
-Server  Exness-MT5Trial6
-
-MT5 login  240294352
-
-
-	qYQ22gXg
-
-
-sTrR?&jL?Bu*GE5
+create your own trading account(demo ) or ( Real )
