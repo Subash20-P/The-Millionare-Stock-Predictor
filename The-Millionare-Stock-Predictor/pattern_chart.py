@@ -8,10 +8,10 @@ import time
 import pyttsx3  # 🔊 Text-to-Speech
 
 # === MT5 Account Info ===
-account = 240294352
-password = "sTrR?&jL?Bu*GE5"
-server = "Exness-MT5Trial6"
-symbol = "EURUSDm"
+account = " ID "
+password = " PASSWORD "
+server = "MENTION THE SERVER "
+symbol = "EURUSD"
 timeframe = mt5.TIMEFRAME_M1
 num_candles = 100
 
